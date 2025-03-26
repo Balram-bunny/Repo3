@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Chrome opened]]>
+    </line>
+    <line>
+      <![CDATA[Enter Text]]>
+    </line>
+    <line>
+      <![CDATA[Enter Puri jagannath temple]]>
+    </line>
+    <line>
+      <![CDATA[Press Enter]]>
+    </line>
+    <line>
+      <![CDATA[Close chrome]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-01-31T06:01:24 IST" name="Default suite" finished-at="2025-01-31T06:01:32 IST" duration-ms="8293">
+    <groups>
+    </groups>
+    <test started-at="2025-01-31T06:01:24 IST" name="Default test" finished-at="2025-01-31T06:01:32 IST" duration-ms="8293">
+      <class name="TestNGReporter.p1">
+        <test-method signature="googlesearch()[pri:0, instance:TestNGReporter.p1@4b0d79fc]" started-at="2025-01-31T06:01:24 IST" name="googlesearch" finished-at="2025-01-31T06:01:32 IST" duration-ms="8207" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome opened]]>
+            </line>
+            <line>
+              <![CDATA[Enter Text]]>
+            </line>
+            <line>
+              <![CDATA[Enter Puri jagannath temple]]>
+            </line>
+            <line>
+              <![CDATA[Press Enter]]>
+            </line>
+            <line>
+              <![CDATA[Close chrome]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- googlesearch -->
+      </class> <!-- TestNGReporter.p1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
